@@ -7,8 +7,8 @@ let myString = "coconut";
     
       
     myValue += myString.charAt(i);
-   
-  
+   //Add comment here 
+    console.log(myValue);
   }
   
   
